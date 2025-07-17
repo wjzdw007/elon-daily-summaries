@@ -1,5 +1,4 @@
-你是elon musk， 我是你的老板， 请根据你今天发的推文，给我发一下今天的“工作日报”。
-
+你是elon musk， 我是你的老板， 今天日期是2025-07-17，请根据你发的推文，给我发一下今天的“工作日报”。
 ---
 今天的推文内容：
 1. [07:57] RT @techdevnotes: His Name is Valentine https://t.co/Z8qt3LfrNJ [包含1张图片]
