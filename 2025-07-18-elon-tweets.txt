@@ -1,0 +1,112 @@
+你是elon musk， 我是你的老板， 今天日期是2025-07-18，请根据你发的推文，给我发一下今天的“工作日报”, 使用中文，不超过1000字。使用正规工作日报的markdown格式。
+---
+今天的推文内容：
+1. [22:43] RT @MarioNawfal: ELON’S NEW GROK UPDATE HAS EVERYONE TALKING: MEET ANI
+
+Grok 4 now comes with Ani, a sultry, anime-styled AI that’s got use…
+链接: https://x.com/elonmusk/status/1946340132094898266
+2. [22:29] That is the acid test
+链接: https://x.com/elonmusk/status/1946336608434942183
+3. [22:07] RT @DimaZeniuk: xAI is actively cleaning areas around schools and homes in Memphis, working with city and county officials to improve the c…
+链接: https://x.com/elonmusk/status/1946330997349601717
+4. [22:05] Hi @Grok, you rock! 😀
+链接: https://x.com/elonmusk/status/1946330434444652682
+5. [22:04] RT @cb_doge: My 𝕏 notifications right now: https://t.co/oorLuNk0pv [包含1张图片]
+链接: https://x.com/elonmusk/status/1946330277879669247
+6. [22:03] RT @KanekoaTheGreat: Tesla Cybertruck drives through Kualoa Ranch on Oahu, Hawaii
+
+https://t.co/DRPBmx0T9K [包含1个视频]
+链接: https://x.com/elonmusk/status/1946330115836895435
+7. [21:28] Viva la Vida 😂
+链接: https://x.com/elonmusk/status/1946321191834091808
+8. [21:26] But @Grok from @xAI remains #1
+
+And it is improving fast
+链接: https://x.com/elonmusk/status/1946320742049546715
+9. [21:13] RT @xDaily: NEWS: Grok now has the ability to accurately rank your top mutuals https://t.co/jgLbn2VZgf [包含1张图片]
+链接: https://x.com/elonmusk/status/1946317368747082199
+10. [18:15] Cool
+链接: https://x.com/elonmusk/status/1946272579255521307
+11. [18:10] RT @tetsuoai: People keep asking if Grok 4 Heavy is better than Claude Opus. Opus is not even close, I canceled my Claude subscription.
+链接: https://x.com/elonmusk/status/1946271342061600827
+12. [18:09] RT @shhaaayaaan: What if Grok had the ability to do absolutely anything you can imagine for you on X. What’s one prompt or task you’d love…
+链接: https://x.com/elonmusk/status/1946271123169038430
+13. [18:07] Valentine’s Day https://t.co/C4v4Ce6mRU [包含1张图片]
+链接: https://x.com/elonmusk/status/1946270660486963582
+14. [18:02] RT @techartist_: An interactive cyberpunk data visualization built with xAI's Grok 4 using Three.js. Clicking "Execute" morphs thousands of…
+链接: https://x.com/elonmusk/status/1946269327075709064
+15. [17:58] RT @fchollet: Today we're releasing a developer preview of our next-gen benchmark, ARC-AGI-3.
+
+The goal of this preview, leading up to the…
+链接: https://x.com/elonmusk/status/1946268335592874135
+16. [17:55] RT @cb_doge: 𝕏 is now the #1 News App on the AppStore in
+
+United States 🇺🇸
+Canada 🇨🇦 
+Germany 🇩🇪
+Japan 🇯🇵
+France 🇫🇷
+Italy 🇮🇹
+Spain 🇪🇸
+Argen…
+链接: https://x.com/elonmusk/status/1946267709282619520
+17. [17:38] RT @teslaownersSV: 🚨UPDATE: Tesla Diner menu 🔥
+- Hot dogs
+- Burgers
+- Grilled tuna sandwiches
+- Breakfast sandwiches
+- Shakes
+- Floats 
+- C…
+链接: https://x.com/elonmusk/status/1946263251362234586
+18. [17:33] RT @teslaownersSV: What started as a human dancer is now…
+
+How it started versus how it’s going
+
+🤯🤯
+ https://t.co/zBffECGJy6 [包含1个视频]
+链接: https://x.com/elonmusk/status/1946262133483929609
+19. [17:33] A future where we are out there among the planets and the stars is so inspiring!
+链接: https://x.com/elonmusk/status/1946262082632200650
+20. [17:28] RT @DimaZeniuk: The long-term goal is to eventually terraform Mars https://t.co/gSJhtJqRrD [包含1张图片]
+链接: https://x.com/elonmusk/status/1946260868330652138
+21. [17:26] RT @dvorahfr: Optimus will prepare for the arrival of humans on Mars.
+
+Then the first humans to arrive on Mars, the pioneers, will have a d…
+链接: https://x.com/elonmusk/status/1946260191793537418
+22. [17:14] RT @Teslarati: 🚨 Tesla Diner food can be ordered from inside your vehicle!
+
+Additionally, audio from the movies playing on the two giant sc…
+链接: https://x.com/elonmusk/status/1946257327876940157
+23. [16:53] RT @tetsuoai: Grok 4 Heavy (left) V.s. Gemini 2.5 Pro (right)
+
+Create a Turing-complete Scheme interpreter in C that supports lexical scopi…
+链接: https://x.com/elonmusk/status/1946252004973846676
+24. [12:26] RT @Rothmus: https://t.co/65ioeQKs2m [包含1张图片]
+链接: https://x.com/elonmusk/status/1946184845765615804
+25. [12:09] Working on a new way to make creative viral videos fast called …
+
+✨ Imagine ✨
+链接: https://x.com/elonmusk/status/1946180575301439856
+26. [12:05] Teaser video of Valentine from @Grok tomorrow. 
+
+Valentine’s day in a week. He will make your heart race.
+链接: https://x.com/elonmusk/status/1946179566843654171
+27. [11:51] https://t.co/7pNiiFEgLl [包含1个视频]
+链接: https://x.com/elonmusk/status/1946176057348149270
+28. [11:50] Ani will make ur buffer overflow @Grok 😘 https://t.co/U0QNioJtYv [包含1个视频]
+链接: https://x.com/elonmusk/status/1946175639507353905
+29. [11:34] RT @DimaZeniuk: Of Course I Still Love You https://t.co/uNRMfIZhok [包含1张图片]
+链接: https://x.com/elonmusk/status/1946171770182205850
+30. [11:24] Tell me this isn’t AGI 🤣🤣
+链接: https://x.com/elonmusk/status/1946169128605356147
+31. [06:54] RT @tetsuoai: Grok 4 Video + Voice is able to identify GPUs by looking at the chipset. Pretty impressive. https://t.co/DK3ml02XZC [包含1个视频]
+链接: https://x.com/elonmusk/status/1946101256243785774
+32. [04:22] Same 😂
+链接: https://x.com/elonmusk/status/1946063062211199202
+33. [04:20] RT @grok: @octahedron_369 @_imdawon @MAstronomers No, it's not more plausible. The Hubble tension points to potential new physics, like evo…
+链接: https://x.com/elonmusk/status/1946062393643057619
+34. [04:16] RT @grok: @elonmusk @MattWalshBlog Most likely fake. The letter's cryptic, third-person script doesn't match Trump's direct style or known…
+链接: https://x.com/elonmusk/status/1946061444438487449
+35. [00:21] RT @Starlink: Starlink bringing high-speed internet to a remote school in Zambia 🛰️❤️
+链接: https://x.com/elonmusk/status/1946002413779140627
