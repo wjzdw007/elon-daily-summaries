@@ -1,0 +1,82 @@
+请根据以下 Elon Musk 今天的推文内容，分析并总结他今天都做了啥。请用中文回答
+
+---
+今天的推文内容：
+1. [19:44] True
+链接: https://x.com/elonmusk/status/1947744531182719304
+2. [19:41] RT @teslaenergy: https://t.co/pg9Xpt6nV0
+链接: https://x.com/elonmusk/status/1947743850539499649
+3. [18:06] RT @niccruzpatane: This place signifies what Tesla is all about. What an amazing place to spend some time no matter if you are a Tesla owne…
+链接: https://x.com/elonmusk/status/1947719925587710102
+4. [17:49] Cable pr0n of @xAI GB200 servers at Colossus 2 https://t.co/ncg1fWBKN0 [包含2张图片]
+链接: https://x.com/elonmusk/status/1947715674429919279
+5. [17:28] RT @_GiantLeap: West Point Entrance, Valles Marineris Underground Colony, Mars https://t.co/J7fcPy2s8h [包含1个视频]
+链接: https://x.com/elonmusk/status/1947710398427500697
+6. [17:27] RT @WallStreetMav: For June 2025:
+
+US govt revenue $526 billion
+US gov interest payments $144 billion
+
+On our $37 trillion debt, we paid 27…
+链接: https://x.com/elonmusk/status/1947710095481270311
+7. [17:18] …
+链接: https://x.com/elonmusk/status/1947707913088471156
+8. [17:13] This is despite @SpaceX competitors increasing their launch rates. SpaceX is an anomaly in the matrix. 
+
+Nothing can compare to a system designed to make life/consciousness multiplanetary.
+链接: https://x.com/elonmusk/status/1947706483145404782
+9. [17:04] The @xAI goal is 50 million in units of H100 equivalent-AI compute (but much better power-efficiency) online within 5 years
+链接: https://x.com/elonmusk/status/1947704195844608094
+10. [16:54] 230k GPUs, including 30k GB200s, are operational for training Grok @xAI in a single supercluster called Colossus 1 (inference is done by our cloud providers).
+
+At Colossus 2, the first batch of 550k GB200s &amp; GB300s, also for training, start going online in a few weeks.
+
+As Jensen
+链接: https://x.com/elonmusk/status/1947701807389515912
+11. [16:05] RT @iam_smx: The Tesla Diner is beyond amazing. Feeling down? Skip therapy and come here instead. https://t.co/9ZnJzcwHJa [包含1个视频]
+链接: https://x.com/elonmusk/status/1947689495945744476
+12. [16:05] RT @muskonomy: 🚨BREAKING: JPMorgan tested Tesla’s Robotaxi in Austin and called it “solid” and “safe” after a full day of use.
+
+They believ…
+链接: https://x.com/elonmusk/status/1947689356237607214
+13. [16:03] RT @Cyber_Trailer: Did some soul-searching,
+Why am I so enamored with the Tesla Diner and why does it bring such a huge smile to my face?…
+链接: https://x.com/elonmusk/status/1947688883090821578
+14. [16:01] Protecting your freedom of speech
+链接: https://x.com/elonmusk/status/1947688454659379213
+15. [10:27] RT @niccruzpatane: Tesla set up a booth in the middle of mall in Vancover so people could test out how strong Cybertruck’s doors really are…
+链接: https://x.com/elonmusk/status/1947604316463710710
+16. [10:15] RT @brandontsla: Only Tesla has you taking a photo of the bathroom before you use it https://t.co/zionroYx1o [包含1张图片]
+链接: https://x.com/elonmusk/status/1947601315364016579
+17. [10:14] RT @Tesla_India: Now everyone in India can order directly on our website https://t.co/rwLlNUioaK [包含1张图片]
+链接: https://x.com/elonmusk/status/1947601060891398359
+18. [10:13] RT @Tesla: Tesla Diner &amp; Supercharger in Hollywood, LA
+
+Open 24/7, starting now https://t.co/nISRNoV89Y [包含1个视频]
+链接: https://x.com/elonmusk/status/1947600934957420690
+19. [09:52] https://t.co/3JejFOapuc [包含1个视频]
+链接: https://x.com/elonmusk/status/1947595577543561641
+20. [09:47] RT @ssankar: 🇺🇸 vs 🇪🇺 https://t.co/4jrfvtPWd4 [包含1张图片]
+链接: https://x.com/elonmusk/status/1947594448202043887
+21. [09:46] RT @SawyerMerritt: One year later, the Tesla gummies have finally arrived. https://t.co/OSRd1Wrw9P [包含1张图片]
+链接: https://x.com/elonmusk/status/1947594101039501475
+22. [09:36] Ingredients are sourced from local farms
+链接: https://x.com/elonmusk/status/1947591596897444101
+23. [09:33] There should be more things like this
+链接: https://x.com/elonmusk/status/1947590891587129589
+24. [09:26] RT @MdeZegher: Not only an epic experience, a critical charging haven for Central Los Angeles. Our largest urban Supercharger in the world,…
+链接: https://x.com/elonmusk/status/1947589028741808190
+25. [03:15] Tesla diner just opened in LA
+链接: https://x.com/elonmusk/status/1947495607561850992
+26. [02:57] RT @WholeMarsBlog: They have all the Optimus prototypes on display https://t.co/pC24Ahw6wf [包含2张图片]
+链接: https://x.com/elonmusk/status/1947491103432905075
+27. [02:56] RT @Starlink: Starlink Mini provides reliable connectivity in the most rural and remote locations 🛰️🌲
+链接: https://x.com/elonmusk/status/1947491029286081016
+28. [02:54] RT @BrianRoemmele: This place captured the quintessential elements of optimistic futurism from the 1950s.
+
+The spirit is a stand against th…
+链接: https://x.com/elonmusk/status/1947490432709235017
+29. [02:51] RT @Tesla: Tesla Diner is retro-futuristic diner &amp; drive-in charging experience all wrapped into one
+
+80 V4 Supercharger stalls are open to…
+链接: https://x.com/elonmusk/status/1947489610541765050
