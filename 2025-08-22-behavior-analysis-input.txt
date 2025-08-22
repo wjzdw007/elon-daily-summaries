@@ -1,0 +1,76 @@
+请根据以下 Elon Musk 今天的推文内容，分析并总结他今天都做了啥。有什么值得投资者重点关注的？请用中文回答,简洁一些，不要啰啰嗦嗦的。
+
+---
+今天的推文内容：
+1. [23:13] Turn on “Speak” in Grok Imagine, hand your phone to your kid and see how joyful they are to explore their imagination!
+链接: https://x.com/elonmusk/status/1959031283822338475
+2. [22:26] Another day, another Grok upgrade
+链接: https://x.com/elonmusk/status/1959019306169376865
+3. [22:13] RT @techdevnotes: xAI is building A Pure AI Software Company, Macrohard
+
+Since companies like Microsoft focus solely on software without pr…
+链接: https://x.com/elonmusk/status/1959016101020672192
+4. [22:11] RT @cb_doge: 𝐇𝐨𝐰 𝐢𝐭 𝐬𝐭𝐚𝐫𝐭𝐞𝐝:
+
+"When I started SpaceX, one of my friends got a compilation of rocket failures &amp; made me watch the whole thin…
+链接: https://x.com/elonmusk/status/1959015661679910978
+5. [22:05] RT @SpaceForceCSO: Late last night, Guardians and @SpaceX sent the X-37B back to space aboard a Falcon 9 rocket. America’s unmanned spacepl…
+链接: https://x.com/elonmusk/status/1959014153617907813
+6. [22:04] RT @cb_doge: Grok Imagine is getting better at an insane speed. Just look at the real-time reflections, vibrant colours, and stunning detai…
+链接: https://x.com/elonmusk/status/1959013888596517200
+7. [19:50] RT @cb_doge: Download Grok and try Imagine.
+
+Share it with your friends and family. https://t.co/CrFeoXvu5J [包含1个视频]
+链接: https://x.com/elonmusk/status/1958980198051061808
+8. [19:03] RT @dwarkesh_sp: .@CJHandmer on how to feed the AIs.
+
+0:00:00 – Why doesn’t China win by default
+0:08:28 – Why hyperscalers choose natural…
+链接: https://x.com/elonmusk/status/1958968377323778455
+9. [19:02] RT @CJHandmer: It's not too late to learn physics.
+链接: https://x.com/elonmusk/status/1958968119172768070
+10. [18:23] RT @KettlebellDan: there are some images so good that you have a moral obligation to share
+
+here are the latest 10 from the Grok Imagine Fa…
+链接: https://x.com/elonmusk/status/1958958180601667847
+11. [11:31] Grok is evolving much faster than any other AI.
+
+If this rate of progress continues, @xAI will outpace other AI companies by a significant margin.
+
+App upgrades are roughly on par with internal upgrades. https://t.co/MAcGslbJ5c [包含1张图片]
+链接: https://x.com/elonmusk/status/1958854561579638960
+12. [11:26] RT @zeeshanp_: Many people wonder what is the benefit of training video gen models. Video gen by itself doesn’t necessarily seem to provide…
+链接: https://x.com/elonmusk/status/1958853167166468237
+13. [11:24] Join @xAI and help build a purely AI software company called Macrohard. It’s a tongue-in-cheek name, but the project is very real!
+
+In principle, given that software companies like Microsoft do not themselves manufacture any physical hardware, it should be possible to simulate
+链接: https://x.com/elonmusk/status/1958852874236305793
+14. [11:16] RT @AISafetyMemes: I'm sorry, but "LLMs can't reason in 2025" is a truly embarrassing take.
+
+You can literally watch them reason IN PLAIN E…
+链接: https://x.com/elonmusk/status/1958850837142544671
+15. [11:13] RT @cb_doge: BREAKING: xAI has released a new update for the Grok App. Update your app to v1.1.57 to get the latest improvements:
+
+- Optimi…
+链接: https://x.com/elonmusk/status/1958850083790979418
+16. [11:12] Grok Imagine gets better every day
+链接: https://x.com/elonmusk/status/1958849868576723150
+17. [11:09] Wow
+链接: https://x.com/elonmusk/status/1958848906193993938
+18. [11:01] Colossus 2, built by @xAI, will be the world’s first Gigawatt+ AI training supercomputer
+链接: https://x.com/elonmusk/status/1958846872157921546
+19. [10:57] Cybertruck receives top safety rating!
+链接: https://x.com/elonmusk/status/1958846076741624123
+20. [10:55] RT @SpaceX: Falcon 9 launches the @SpaceForceDoD's USSF-36 mission to orbit and lands at LZ-2 https://t.co/mlS0VEkVvV [包含3个视频]
+链接: https://x.com/elonmusk/status/1958845538436104272
+21. [10:54] RT @cb_doge: For the first time ever, there is a rocket capable of establishing a permanent base on Mars. https://t.co/9oWV8o3rHJ [包含1个视频]
+链接: https://x.com/elonmusk/status/1958845110159880624
+22. [10:28] RT @karatademada: I asked Ani what she thinks about claims that she might be adding to the decline in the birth rate. https://t.co/ujVTt8XX…
+链接: https://x.com/elonmusk/status/1958838656879534193
+23. [10:27] RT @EvaFoxU: @elonmusk I have video proof https://t.co/2sNRTiZEr7 [包含1个视频]
+链接: https://x.com/elonmusk/status/1958838453325766868
+24. [10:22] RT @amXFreeze: Grok 4 achieves top accuracy scores in several benchmarks,
+it’s the most precise AI yet
+链接: https://x.com/elonmusk/status/1958837108489297986
+25. [10:16] Totally real 👍 https://t.co/LZ1aFJW9iC [包含1张图片]
+链接: https://x.com/elonmusk/status/1958835644350046213
