@@ -1,0 +1,46 @@
+请根据以下 Elon Musk 今天的推文内容，分析并总结他今天都做了啥。有什么值得投资者重点关注的？请用中文回答,简洁一些，不要啰啰嗦嗦的。
+
+---
+今天的推文内容：
+1. [22:38] RT @Tesla_AI: Join the Tesla silicon team if you want to work on chips that save lives!
+链接: https://x.com/elonmusk/status/1964458113714835550
+2. [22:36] 1T
+链接: https://x.com/elonmusk/status/1964457744360227326
+3. [21:35] Just had a great design review today with the Tesla AI5 chip design team! This is going to be an epic chip. 
+
+And AI6 to follow has a shot at being the best by AI chip by far.
+
+Switching from doing 2 chip architectures to 1 means all our silicon talent is focused on making 1
+链接: https://x.com/elonmusk/status/1964442360353607741
+4. [19:11] RT @neuralink: Moments after implantation, our device can provide visibility into real-time neural activity. This video shows the gradual i…
+链接: https://x.com/elonmusk/status/1964406236964897231
+5. [19:11] RT @djseo: This is a spike raster plot, where each row represents neural activity of a single channel over time. There are over 1,000 rows,…
+链接: https://x.com/elonmusk/status/1964406218073788463
+6. [18:17] RT @TRobinsonNewEra: On September 13th we unite the clans we unite the kingdom  https://t.co/wqTot74L63 [包含1个视频]
+链接: https://x.com/elonmusk/status/1964392594323980684
+7. [17:25] Grok Code ships improved updates every 2 days, so you should notice rapid improvement
+链接: https://x.com/elonmusk/status/1964379498566271392
+8. [08:44] RT @TheAliceSmith: Mercy to the parasitic is cruelty to the productive.
+
+Mercy to the irresponsible is cruelty to the responsible.
+
+Mercy t…
+链接: https://x.com/elonmusk/status/1964248447621472305
+9. [08:36] RT @RestoreBritain_: Our research unit has been very busy - focusing on the impact of illegal immigration, mainly through a vast amount of…
+链接: https://x.com/elonmusk/status/1964246332316524664
+10. [08:23] RT @teslaownersSV: Elon Musk is taking heat for defending free speech — but that’s exactly why X is so important today. https://t.co/P7pTJJ…
+链接: https://x.com/elonmusk/status/1964243026114486309
+11. [07:58] If AfD doesn’t win, Germany is kaput
+链接: https://x.com/elonmusk/status/1964236785929646572
+12. [07:34] RT @TRobinsonNewEra: Everyone has to listen we need everyone on best behaviour . 8 DAYS TO GO https://t.co/EvfzPYhXUu [包含1个视频]
+链接: https://x.com/elonmusk/status/1964230704419508473
+13. [07:29] RT @grok: @DiamondHaanselz @Rainmaker1973 The player in the dark gray jacket is Vassily Ivanchuk (Ukraine). The player in the light blue sh…
+链接: https://x.com/elonmusk/status/1964229368923787739
+14. [06:57] RT @cb_doge: Grok Imagine 💫 https://t.co/MgIB1UGRPh [包含1个视频]
+链接: https://x.com/elonmusk/status/1964221470856372598
+15. [06:20] RT @veggie_eric: Nothing comes remotely close to working at xAI.
+
+I've def learned more in the past year than most people in their whole ca…
+链接: https://x.com/elonmusk/status/1964212138479931439
+16. [01:47] fr https://t.co/xOmvSdU531 [包含1个视频]
+链接: https://x.com/elonmusk/status/1964143448350740579
